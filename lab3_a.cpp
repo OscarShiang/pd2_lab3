@@ -40,6 +40,6 @@ int main(void) {
     for (int i = 0; i < 5; i++) {
         sum += cows[i];
     }
-    cout << "The total weights of top 5: " << sum << '\n';
+    cout << "The total weight of top 5: " << sum << '\n';
     return 0;
 }
